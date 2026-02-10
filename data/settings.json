@@ -1,0 +1,31 @@
+{
+    "theme": "xp",
+    "kiosk": false,
+    "wallpaper": "c:\\Users\\stone\\OneDrive\\Documents\\scripts\\LukeOS\\file32\\wallpapers\\Dog.jpg",
+    "desktop_shortcuts": [
+        {
+            "name": "Microsoft Edge",
+            "path": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+        }
+    ],
+    "startmenu_shortcuts": [
+        {
+            "name": "Microsoft Edge",
+            "path": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+        },
+        {
+            "name": "msedge",
+            "path": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+        },
+        {
+            "name": "msedge",
+            "path": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+        }
+    ],
+    "taskbar_shortcuts": [
+        {
+            "name": "Microsoft Edge",
+            "path": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+        }
+    ]
+}
